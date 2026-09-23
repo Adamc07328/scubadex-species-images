@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "species": [
     {
       "id": "4",
@@ -23,9 +23,9 @@
       "license": "All rights reserved — used by permission"
     },
     {
-      "id": "169",
-      "imageFile": "169.webp",
-      "imageVersion": 2,
+      "id": "196",
+      "imageFile": "196.webp",
+      "imageVersion": 1,
       "credit": { "name": "Adam", "club": null, "url": null },
       "license": "All rights reserved — used by permission"
     },
