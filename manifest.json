@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "species": [
     { "id": "4", "imageFile": "4.webp", "imageVersion": 1, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
     { "id": "31", "imageFile": "31.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" },
