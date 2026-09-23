@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "species": [
+    {
+      "id": "4",
+      "imageFile": "4.webp",
+      "imageVersion": 1,
+      "credit": { "name": "Adam", "club": null, "url": null },
+      "license": "All rights reserved — used by permission"
+    },
+    {
+      "id": "49",
+      "imageFile": "49.webp",
+      "imageVersion": 1,
+      "credit": { "name": "Adam", "club": null, "url": null },
+      "license": "All rights reserved — used by permission"
+    },
+    {
+      "id": "52",
+      "imageFile": "52.webp",
+      "imageVersion": 1,
+      "credit": { "name": "Adam", "club": null, "url": null },
+      "license": "All rights reserved — used by permission"
+    },
+    {
+      "id": "196",
+      "imageFile": "196.webp",
+      "imageVersion": 1,
+      "credit": { "name": "Adam", "club": null, "url": null },
+      "license": "All rights reserved — used by permission"
+    },
+    {
+      "id": "246",
+      "imageFile": "246.webp",
+      "imageVersion": 1,
+      "credit": { "name": "Adam", "club": null, "url": null },
+      "license": "All rights reserved — used by permission"
+    }
+  ]
+}
