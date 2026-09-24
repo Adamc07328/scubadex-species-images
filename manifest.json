@@ -1,15 +1,11 @@
 {
-  "version": 3,
+  "version": 4,
   "species": [
-    { "id": "4", "imageFile": "4.webp", "imageVersion": 1, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
     { "id": "31", "imageFile": "31.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" },
-    { "id": "49", "imageFile": "49.webp", "imageVersion": 1, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
-    { "id": "52", "imageFile": "52.webp", "imageVersion": 1, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
     { "id": "196", "imageFile": "196.webp", "imageVersion": 2, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
     { "id": "199", "imageFile": "199.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" },
     { "id": "214", "imageFile": "214.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" },
     { "id": "229", "imageFile": "229.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" },
-    { "id": "246", "imageFile": "246.webp", "imageVersion": 1, "credit": { "name": "Adam", "club": null, "url": null }, "license": "All rights reserved — used by permission" },
     { "id": "266", "imageFile": "266.webp", "imageVersion": 1, "credit": { "name": "Adam Carroll", "club": "Oceandivers", "url": null }, "license": "Adam - all rights reserved, used by permission" }
   ]
 }
